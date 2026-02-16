@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/simple-ios-app-with-login-and-calculator-10075-10084/ios_flutter_frontend
+flutter analyze
+
